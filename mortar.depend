@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1580135635 source:f:\mortar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	"mortarclass.h"
+
+1580134024 f:\mortar\mortarclass.h
+	<string>
+	<iostream>
+
+1580327439 source:e:\porojectc++\dorna\mortar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	"mortarclass.h"
+	"bulletclass.h"
+	<cstdlib>
+	<ctime>
+
+1580298997 e:\porojectc++\dorna\mortar\mortarclass.h
+	<string>
+	<iostream>
+
+1580228103 e:\porojectc++\dorna\mortar\bulletclass.h
+	<iostream>
+	<string>
+
+1580495583 source:e:\mortar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	"mortarclass.h"
+	"bulletclass.h"
+	<cstdlib>
+	<ctime>
+
+1580298997 e:\mortar\mortarclass.h
+	<string>
+	<iostream>
+
+1580228103 e:\mortar\bulletclass.h
+	<iostream>
+	<string>
+
+1580552062 source:c:\users\asus\downloads\telegram desktop\mortar (3)\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	"mortarclass.h"
+	"bulletclass.h"
+	<cstdlib>
+	<ctime>
+
+1580298997 c:\users\asus\downloads\telegram desktop\mortar (3)\mortarclass.h
+	<string>
+	<iostream>
+
+1580228103 c:\users\asus\downloads\telegram desktop\mortar (3)\bulletclass.h
+	<iostream>
+	<string>
+
+1580555938 source:d:\mohammadrezazarifikhameneh.9728283.mortar\mortar\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	"mortarclass.h"
+	"bulletclass.h"
+	<cstdlib>
+	<ctime>
+	<fstream>
+
+1580584932 d:\mohammadrezazarifikhameneh.9728283.mortar\mortar\mortarclass.h
+	<string>
+	<iostream>
+
+1580228103 d:\mohammadrezazarifikhameneh.9728283.mortar\mortar\bulletclass.h
+	<iostream>
+	<string>
+
